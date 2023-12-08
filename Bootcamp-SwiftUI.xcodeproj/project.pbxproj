@@ -15,6 +15,7 @@
 		5CC56E552B20C5AA00CA8037 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E542B20C5AA00CA8037 /* ShapesBootcamp.swift */; };
 		5CC56E572B20CE9200CA8037 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E562B20CE9200CA8037 /* ColorsBootcamp.swift */; };
 		5CC56E592B22159600CA8037 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E582B22159600CA8037 /* GradientsBootcamp.swift */; };
+		85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5CC56E542B20C5AA00CA8037 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		5CC56E562B20CE9200CA8037 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		5CC56E582B22159600CA8037 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
+		85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				5CC56E542B20C5AA00CA8037 /* ShapesBootcamp.swift */,
 				5CC56E562B20CE9200CA8037 /* ColorsBootcamp.swift */,
 				5CC56E582B22159600CA8037 /* GradientsBootcamp.swift */,
+				85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				5CC56E592B22159600CA8037 /* GradientsBootcamp.swift in Sources */,
 				5CC56E572B20CE9200CA8037 /* ColorsBootcamp.swift in Sources */,
+				85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */,
 				5CC56E552B20C5AA00CA8037 /* ShapesBootcamp.swift in Sources */,
 				5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */,
 				5CC56E532B1F77F600CA8037 /* TextBootcamp.swift in Sources */,
