@@ -13,17 +13,17 @@ struct AnimationBootcamp: View {
     
     var body: some View {
         VStack {
-//            Button("Button") {
-//                withAnimation(
-//                    Animation
-//                        .default
-//                        //.delay(0.5)
-//                        .repeatCount(5, autoreverses: false)
-//                        //.repeatForever()
-//                ) {
-//                    isAnimated.toggle()
-//                }
-//            }
+            //            Button("Button") {
+            //                withAnimation(
+            //                    Animation
+            //                        .default
+            //                        //.delay(0.5)
+            //                        .repeatCount(5, autoreverses: false)
+            //                        //.repeatForever()
+            //                ) {
+            //                    isAnimated.toggle()
+            //                }
+            //            }
             
             Button("Button") {
                 isAnimated.toggle()
@@ -44,8 +44,10 @@ struct AnimationBootcamp: View {
                         .default
                         //.delay(0.5)
                         .repeatCount(5, autoreverses: false)
-                        //.repeatForever()
-                )
+                        //.repeatForever(),
+                    ,
+                    value: isAnimated)
+            
             
             Spacer()
         }
