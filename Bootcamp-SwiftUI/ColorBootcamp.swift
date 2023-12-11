@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ColorsBootcamp: View {
+struct ColorBootcamp: View {
     var body: some View {
         RoundedRectangle(cornerRadius: 10)
             .fill(
@@ -26,5 +26,5 @@ struct ColorsBootcamp: View {
 }
 
 #Preview {
-    ColorsBootcamp()
+    ColorBootcamp()
 }

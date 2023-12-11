@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ShapesBootcamp: View {
+struct ShapeBootcamp: View {
     var body: some View {
         //Circle()
         //Ellipse()
@@ -27,5 +27,5 @@ struct ShapesBootcamp: View {
 }
 
 #Preview {
-    ShapesBootcamp()
+    ShapeBootcamp()
 }

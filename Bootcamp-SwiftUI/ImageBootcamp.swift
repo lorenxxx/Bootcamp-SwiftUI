@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Images: View {
+struct ImagesBootcamp: View {
     var body: some View {
         Image("lorenliang")
             //.renderingMode(/*@START_MENU_TOKEN@*/.template/*@END_MENU_TOKEN@*/)
@@ -25,5 +25,5 @@ struct Images: View {
 }
 
 #Preview {
-    Images()
+    ImagesBootcamp()
 }

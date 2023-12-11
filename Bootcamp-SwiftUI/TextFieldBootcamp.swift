@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TextfieldBootcamp: View {
+struct TextFieldBootcamp: View {
     
     @State var textFieldText: String = ""
     
@@ -60,5 +60,5 @@ struct TextfieldBootcamp: View {
 }
 
 #Preview {
-    TextfieldBootcamp()
+    TextFieldBootcamp()
 }
