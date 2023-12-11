@@ -43,6 +43,7 @@
 		85B16AE92B26ECD8007FE92D /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */; };
 		85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEA2B270342007FE92D /* AlertBootcamp.swift */; };
 		85B16AED2B270A4D007FE92D /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */; };
+		85B16AEF2B271536007FE92D /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEE2B271536007FE92D /* ContextMenuBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		85B16AEA2B270342007FE92D /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
+		85B16AEE2B271536007FE92D /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */,
 				85B16AEA2B270342007FE92D /* AlertBootcamp.swift */,
 				85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */,
+				85B16AEE2B271536007FE92D /* ContextMenuBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 				5CC56E632B24374800CA8037 /* ScrollViewBootcamp.swift in Sources */,
 				5CC56E5B2B2365F800CA8037 /* PaddingBootcamp.swift in Sources */,
 				5CC56E572B20CE9200CA8037 /* ColorBootcamp.swift in Sources */,
+				85B16AEF2B271536007FE92D /* ContextMenuBootcamp.swift in Sources */,
 				85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */,
 				5CC56E5F2B242A3C00CA8037 /* InitializerBootcamp.swift in Sources */,
 				85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */,
