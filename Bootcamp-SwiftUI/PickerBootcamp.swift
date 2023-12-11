@@ -29,6 +29,7 @@ struct PickerBootcamp: View {
             }
             .pickerStyle(.wheel)
         }
+        
     }
 }
 
