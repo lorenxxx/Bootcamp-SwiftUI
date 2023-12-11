@@ -45,7 +45,7 @@ struct TextFieldBootcamp: View {
                 Spacer()
             }
             .padding()
-            .navigationTitle("Bootcamp")
+            .navigationTitle("TextField0")
         }
     }
     
