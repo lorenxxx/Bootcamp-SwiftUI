@@ -41,6 +41,7 @@
 		85B16AE52B2315BB007FE92D /* StackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE42B2315BB007FE92D /* StackBootcamp.swift */; };
 		85B16AE72B26E4B2007FE92D /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */; };
 		85B16AE92B26ECD8007FE92D /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */; };
+		85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEA2B270342007FE92D /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		85B16AE42B2315BB007FE92D /* StackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		85B16AEA2B270342007FE92D /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				5CC56E7E2B25DD8800CA8037 /* PopoverBootcamp.swift */,
 				85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */,
 				85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */,
+				85B16AEA2B270342007FE92D /* AlertBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -239,6 +242,7 @@
 				85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */,
 				5CC56E752B24CEEC00CA8037 /* TernaryBootcamp.swift in Sources */,
 				5CC56E672B245DBF00CA8037 /* SafeAreaBootcamp.swift in Sources */,
+				85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */,
 				5CC56E552B20C5AA00CA8037 /* ShapeBootcamp.swift in Sources */,
 				5CC56E792B25A06A00CA8037 /* AnimationTimingBootcamp.swift in Sources */,
 				5CC56E7B2B25A65C00CA8037 /* Transition.swift in Sources */,
