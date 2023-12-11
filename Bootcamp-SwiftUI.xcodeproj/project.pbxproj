@@ -40,6 +40,7 @@
 		85B16AE32B230642007FE92D /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE22B230642007FE92D /* BackgroundAndOverlayBootcamp.swift */; };
 		85B16AE52B2315BB007FE92D /* StackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE42B2315BB007FE92D /* StackBootcamp.swift */; };
 		85B16AE72B26E4B2007FE92D /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */; };
+		85B16AE92B26ECD8007FE92D /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		85B16AE22B230642007FE92D /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE42B2315BB007FE92D /* StackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				5CC56E7C2B25AB7500CA8037 /* SheetBootcamp.swift */,
 				5CC56E7E2B25DD8800CA8037 /* PopoverBootcamp.swift */,
 				85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */,
+				85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -254,6 +257,7 @@
 				85B16AE72B26E4B2007FE92D /* NavigationViewBootcamp.swift in Sources */,
 				5CC56E732B24C65600CA8037 /* ConditionalBootcamp.swift in Sources */,
 				5CC56E452B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift in Sources */,
+				85B16AE92B26ECD8007FE92D /* ListBootcamp.swift in Sources */,
 				5CC56E6D2B24B1A200CA8037 /* ExtractFuncAndViewBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
