@@ -42,6 +42,7 @@
 		85B16AE72B26E4B2007FE92D /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */; };
 		85B16AE92B26ECD8007FE92D /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */; };
 		85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEA2B270342007FE92D /* AlertBootcamp.swift */; };
+		85B16AED2B270A4D007FE92D /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		85B16AEA2B270342007FE92D /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				85B16AE62B26E4B2007FE92D /* NavigationViewBootcamp.swift */,
 				85B16AE82B26ECD8007FE92D /* ListBootcamp.swift */,
 				85B16AEA2B270342007FE92D /* AlertBootcamp.swift */,
+				85B16AEC2B270A4D007FE92D /* ActionSheetBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -254,6 +257,7 @@
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
 				5CC56E7F2B25DD8800CA8037 /* PopoverBootcamp.swift in Sources */,
+				85B16AED2B270A4D007FE92D /* ActionSheetBootcamp.swift in Sources */,
 				5CC56E712B24BF4300CA8037 /* BindingBootcamp.swift in Sources */,
 				5CC56E652B24432800CA8037 /* GridBootcamp.swift in Sources */,
 				5CC56E772B2598FD00CA8037 /* AnimationBootcamp.swift in Sources */,
