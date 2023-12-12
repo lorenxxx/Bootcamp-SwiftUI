@@ -54,6 +54,7 @@
 		85B16AF92B285098007FE92D /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF82B285098007FE92D /* SliderBootcamp.swift */; };
 		85B16AFB2B28569B007FE92D /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */; };
 		85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */; };
+		85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -105,6 +106,7 @@
 		85B16AF82B285098007FE92D /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
+		85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 				85B16AF82B285098007FE92D /* SliderBootcamp.swift */,
 				85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */,
 				85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */,
+				85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -295,6 +298,7 @@
 				85B16AE52B2315BB007FE92D /* StackBootcamp.swift in Sources */,
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
+				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
 				5CC56E7F2B25DD8800CA8037 /* PopoverBootcamp.swift in Sources */,
 				85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */,
