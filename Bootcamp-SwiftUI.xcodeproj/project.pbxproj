@@ -53,6 +53,7 @@
 		85B16AF72B284C0B007FE92D /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF62B284C0B007FE92D /* StepperBootcamp.swift */; };
 		85B16AF92B285098007FE92D /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF82B285098007FE92D /* SliderBootcamp.swift */; };
 		85B16AFB2B28569B007FE92D /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */; };
+		85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -103,6 +104,7 @@
 		85B16AF62B284C0B007FE92D /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		85B16AF82B285098007FE92D /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -179,6 +181,7 @@
 				85B16AF62B284C0B007FE92D /* StepperBootcamp.swift */,
 				85B16AF82B285098007FE92D /* SliderBootcamp.swift */,
 				85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */,
+				85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -294,6 +297,7 @@
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
 				5CC56E7F2B25DD8800CA8037 /* PopoverBootcamp.swift in Sources */,
+				85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */,
 				85B16AF72B284C0B007FE92D /* StepperBootcamp.swift in Sources */,
 				85B16AED2B270A4D007FE92D /* ActionSheetBootcamp.swift in Sources */,
 				5CC56E712B24BF4300CA8037 /* BindingBootcamp.swift in Sources */,
