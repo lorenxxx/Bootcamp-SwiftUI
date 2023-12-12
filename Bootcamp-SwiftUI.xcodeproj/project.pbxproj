@@ -49,6 +49,7 @@
 		85B16AEF2B271536007FE92D /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AEE2B271536007FE92D /* ContextMenuBootcamp.swift */; };
 		85B16AF12B2719EF007FE92D /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF02B2719EF007FE92D /* TextFieldBootcamp.swift */; };
 		85B16AF32B283ED8007FE92D /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF22B283ED8007FE92D /* ColorPickerBootcamp.swift */; };
+		85B16AF52B2845A4007FE92D /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AF42B2845A4007FE92D /* DatePickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -95,6 +96,7 @@
 		85B16AEE2B271536007FE92D /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 		85B16AF02B2719EF007FE92D /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		85B16AF22B283ED8007FE92D /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
+		85B16AF42B2845A4007FE92D /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 				5CC56E822B275DA300CA8037 /* ToggleBootcamp.swift */,
 				5CC56E842B27606300CA8037 /* PickerBootcamp.swift */,
 				85B16AF22B283ED8007FE92D /* ColorPickerBootcamp.swift */,
+				85B16AF42B2845A4007FE92D /* DatePickerBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 				5CC56E812B274D0000CA8037 /* TextEditorBootcamp.swift in Sources */,
 				5CC56E632B24374800CA8037 /* ScrollViewBootcamp.swift in Sources */,
 				5CC56E5B2B2365F800CA8037 /* PaddingBootcamp.swift in Sources */,
+				85B16AF52B2845A4007FE92D /* DatePickerBootcamp.swift in Sources */,
 				5CC56E572B20CE9200CA8037 /* ColorBootcamp.swift in Sources */,
 				85B16AEF2B271536007FE92D /* ContextMenuBootcamp.swift in Sources */,
 				85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */,
