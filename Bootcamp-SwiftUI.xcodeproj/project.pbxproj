@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */; };
+		5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */; };
 		5CC56E452B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E442B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift */; };
 		5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E462B1F70FA00CA8037 /* ContentView.swift */; };
 		5CC56E492B1F70FC00CA8037 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CC56E482B1F70FC00CA8037 /* Assets.xcassets */; };
@@ -69,6 +70,7 @@
 
 /* Begin PBXFileReference section */
 		5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 		5CC56E412B1F70FA00CA8037 /* Bootcamp-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bootcamp-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CC56E442B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp_SwiftUIApp.swift; sourceTree = "<group>"; };
 		5CC56E462B1F70FA00CA8037 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -213,6 +215,7 @@
 				85B16B022B2998A3007FE92D /* EnvironmentObjectBootcamp.swift */,
 				85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */,
 				85B16B062B29AEC3007FE92D /* OnboardingViews */,
+				5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -323,6 +326,7 @@
 				85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */,
 				5CC56E5F2B242A3C00CA8037 /* InitializerBootcamp.swift in Sources */,
 				85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */,
+				5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */,
 				5CC56E752B24CEEC00CA8037 /* TernaryBootcamp.swift in Sources */,
 				5CC56E892B28A29900CA8037 /* IfLetGuardBootcamp.swift in Sources */,
 				5CC56E672B245DBF00CA8037 /* SafeAreaBootcamp.swift in Sources */,
