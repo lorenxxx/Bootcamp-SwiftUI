@@ -59,6 +59,7 @@
 		85B16AFB2B28569B007FE92D /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */; };
 		85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */; };
 		85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */; };
+		85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -115,6 +116,7 @@
 		85B16AFA2B28569B007FE92D /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		85B16AFC2B286060007FE92D /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
+		85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				5CC56E882B28A29900CA8037 /* IfLetGuardBootcamp.swift */,
 				5CC56E8A2B28B09F00CA8037 /* TapGestureBootcamp.swift */,
 				5CC56E8C2B28B38D00CA8037 /* ModelBootcamp.swift */,
+				85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -312,6 +315,7 @@
 				5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */,
 				85B16AE52B2315BB007FE92D /* StackBootcamp.swift in Sources */,
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
+				85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */,
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
 				5CC56E872B28A0B900CA8037 /* OnAppearBootcamp.swift in Sources */,
 				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
