@@ -71,7 +71,10 @@ struct OnboardingView: View {
 extension OnboardingView {
     
     private var bottomButton: some View {
-        Text("Sign in")
+        Text(
+            onboardingState == 0 ? "SIGN UP" :
+                onboardingState == 3 ? "FINISH" : "NEXT"
+        )
             .font(.headline)
             .foregroundStyle(.pink)
             .frame(height: 55)
@@ -79,7 +82,7 @@ extension OnboardingView {
             .background(.white)
             .cornerRadius(15.0)
             .onTapGesture(perform: {
-                
+                handleNextButtonPressed()
             })
     }
     
@@ -197,7 +200,13 @@ extension OnboardingView {
 extension OnboardingView {
     
     func handleNextButtonPressed() {
-        
+        if onboardingState == 3 {
+            // Sign in
+        } else {
+            withAnimation(.spring) {
+                onboardingState += 1
+            }
+        }
     }
     
 }
