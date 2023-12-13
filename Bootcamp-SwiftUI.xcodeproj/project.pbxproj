@@ -61,6 +61,7 @@
 		85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */; };
 		85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */; };
 		85B16B032B2998A3007FE92D /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B022B2998A3007FE92D /* EnvironmentObjectBootcamp.swift */; };
+		85B16B052B29A796007FE92D /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -119,6 +120,7 @@
 		85B16AFE2B286730007FE92D /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		85B16B022B2998A3007FE92D /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				5CC56E8C2B28B38D00CA8037 /* ModelBootcamp.swift */,
 				85B16B002B2987C3007FE92D /* ViewModelBootcamp.swift */,
 				85B16B022B2998A3007FE92D /* EnvironmentObjectBootcamp.swift */,
+				85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -320,6 +323,7 @@
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
 				85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */,
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
+				85B16B052B29A796007FE92D /* AppStorageBootcamp.swift in Sources */,
 				5CC56E872B28A0B900CA8037 /* OnAppearBootcamp.swift in Sources */,
 				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
