@@ -19,11 +19,29 @@ struct OnboardingView: View {
      */
     @State var onboardingState: Int = 0
     
+    // onborading input
     @State var name: String = ""
     
     @State var age: Double = 18.0
+
+    @State var gender: String = "Male"
     
-    @State var gender: String = ""
+    // transition
+    let transition: AnyTransition = .asymmetric(insertion: .move(edge: .trailing), removal: .move(edge: .leading))
+    
+    // for the alert
+    @State var alertTitle: String = ""
+    
+    @State var showAlert: Bool = false
+    
+    // app storage
+    @AppStorage("signed_in") var currentUserSignedIn: Bool = false
+    
+    @AppStorage("name") var currentUserName: String?
+    
+    @AppStorage("age") var currentUserAge: Int?
+    
+    @AppStorage("gender") var currentUserGender: String?
     
     var body: some View {
         ZStack {
@@ -32,12 +50,16 @@ struct OnboardingView: View {
                 switch onboardingState {
                 case 0:
                     welcomeSection
+                        .transition(transition)
                 case 1:
                     addNameSection
+                        .transition(transition)
                 case 2:
                     addAgeSection
+                        .transition(transition)
                 case 3:
                     addGenderSection
+                        .transition(transition)
                 default:
                     RoundedRectangle(cornerRadius: 15.0)
                         .foregroundStyle(.green)
@@ -51,6 +73,9 @@ struct OnboardingView: View {
             }
             .padding()
         }
+        .alert(isPresented: $showAlert, content: {
+            return Alert(title: Text(alertTitle))
+        })
     }
     
 }
@@ -200,13 +225,46 @@ extension OnboardingView {
 extension OnboardingView {
     
     func handleNextButtonPressed() {
+        // check input
+        switch onboardingState {
+        case 1:
+            guard name.count > 3 else {
+                showAlert(title: "Your name must be at least 3 characters long! ")
+                return
+            }
+        case 3:
+            guard gender.count > 1 else {
+                showAlert(title: "Please select a gender before moving forward! ")
+                return
+            }
+        default:
+            break
+        }
+        
+        // go to next section
         if onboardingState == 3 {
-            // Sign in
+            signIn()
         } else {
             withAnimation(.spring) {
                 onboardingState += 1
             }
         }
+    }
+    
+    func showAlert(title: String) {
+        alertTitle = title
+        showAlert.toggle()
+    }
+    
+    func signIn() {
+        currentUserName = name
+        currentUserAge = Int(age)
+        currentUserGender = gender
+        
+        withAnimation(.spring) {
+            currentUserSignedIn = true
+        }
+        
     }
     
 }

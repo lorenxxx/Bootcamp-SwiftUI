@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */; };
 		5CC56E452B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E442B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift */; };
 		5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E462B1F70FA00CA8037 /* ContentView.swift */; };
 		5CC56E492B1F70FC00CA8037 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CC56E482B1F70FC00CA8037 /* Assets.xcassets */; };
@@ -67,6 +68,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
 		5CC56E412B1F70FA00CA8037 /* Bootcamp-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bootcamp-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CC56E442B1F70FA00CA8037 /* Bootcamp_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bootcamp_SwiftUIApp.swift; sourceTree = "<group>"; };
 		5CC56E462B1F70FA00CA8037 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -230,6 +232,7 @@
 			children = (
 				85B16B072B29AEF0007FE92D /* IntroView.swift */,
 				85B16B092B29B118007FE92D /* OnboardingView.swift */,
+				5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */,
 			);
 			path = OnboardingViews;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */,
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
 				85B16B052B29A796007FE92D /* AppStorageBootcamp.swift in Sources */,
+				5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */,
 				5CC56E872B28A0B900CA8037 /* OnAppearBootcamp.swift in Sources */,
 				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
