@@ -71,6 +71,7 @@
 		85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */; };
 		85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */; };
 		85B16B102B2AE038007FE92D /* BadgeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */; };
+		85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +140,7 @@
 		85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionBootcamp.swift; sourceTree = "<group>"; };
 		85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBootcamp.swift; sourceTree = "<group>"; };
+		85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +233,7 @@
 				85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */,
 				85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */,
 				85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */,
+				85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -357,6 +360,7 @@
 				5CC56E7B2B25A65C00CA8037 /* Transition.swift in Sources */,
 				5CC56E612B2431FE00CA8037 /* ForEachBootcamp.swift in Sources */,
 				5CC56E852B27606300CA8037 /* PickerBootcamp.swift in Sources */,
+				85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */,
 				5CC56E692B24700E00CA8037 /* ButtonBootcamp.swift in Sources */,
 				5CC56E7D2B25AB7500CA8037 /* SheetBootcamp.swift in Sources */,
 				5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */,

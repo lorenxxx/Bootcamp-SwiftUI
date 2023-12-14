@@ -34,7 +34,6 @@ struct BadgeBootcamp: View {
                     Image(systemName: "heart.fill")
                     Text("Hello")
                 }
-            
         }
         
         List {
