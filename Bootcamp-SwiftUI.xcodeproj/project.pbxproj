@@ -70,6 +70,7 @@
 		85B16B0A2B29B118007FE92D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B092B29B118007FE92D /* OnboardingView.swift */; };
 		85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */; };
 		85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */; };
+		85B16B102B2AE038007FE92D /* BadgeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -137,6 +138,7 @@
 		85B16B092B29B118007FE92D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionBootcamp.swift; sourceTree = "<group>"; };
+		85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +230,7 @@
 				5CBF2E252B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift */,
 				85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */,
 				85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */,
+				85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -366,6 +369,7 @@
 				5CC56E872B28A0B900CA8037 /* OnAppearBootcamp.swift in Sources */,
 				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
+				85B16B102B2AE038007FE92D /* BadgeBootcamp.swift in Sources */,
 				5CC56E7F2B25DD8800CA8037 /* PopoverBootcamp.swift in Sources */,
 				85B16AFD2B286060007FE92D /* DarkModeBootcamp.swift in Sources */,
 				85B16AF72B284C0B007FE92D /* StepperBootcamp.swift in Sources */,
