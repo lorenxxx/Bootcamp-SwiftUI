@@ -69,6 +69,7 @@
 		85B16B082B29AEF0007FE92D /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B072B29AEF0007FE92D /* IntroView.swift */; };
 		85B16B0A2B29B118007FE92D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B092B29B118007FE92D /* OnboardingView.swift */; };
 		85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */; };
+		85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,6 +136,7 @@
 		85B16B072B29AEF0007FE92D /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		85B16B092B29B118007FE92D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 				5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */,
 				5CBF2E252B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift */,
 				85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */,
+				85B16B0D2B2AD9B3007FE92D /* SwipeActionBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -343,6 +346,7 @@
 				5CBF2E262B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift in Sources */,
 				5CC56E672B245DBF00CA8037 /* SafeAreaBootcamp.swift in Sources */,
 				85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */,
+				85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */,
 				5CC56E552B20C5AA00CA8037 /* ShapeBootcamp.swift in Sources */,
 				5CC56E792B25A06A00CA8037 /* AnimationTimingBootcamp.swift in Sources */,
 				85B16AF32B283ED8007FE92D /* ColorPickerBootcamp.swift in Sources */,
