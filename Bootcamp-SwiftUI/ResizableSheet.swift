@@ -33,6 +33,7 @@ struct MySheetView: View {
     var body: some View {
         ZStack {
             Color.pink.ignoresSafeArea()
+            
             Text("Welcome")
         }
     }
