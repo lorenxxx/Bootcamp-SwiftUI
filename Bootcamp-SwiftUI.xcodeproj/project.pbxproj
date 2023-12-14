@@ -68,6 +68,7 @@
 		85B16B052B29A796007FE92D /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */; };
 		85B16B082B29AEF0007FE92D /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B072B29AEF0007FE92D /* IntroView.swift */; };
 		85B16B0A2B29B118007FE92D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B092B29B118007FE92D /* OnboardingView.swift */; };
+		85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -133,6 +134,7 @@
 		85B16B042B29A796007FE92D /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		85B16B072B29AEF0007FE92D /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		85B16B092B29B118007FE92D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */,
 				5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */,
 				5CBF2E252B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift */,
+				85B16B0B2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -322,6 +325,7 @@
 				85B16AFB2B28569B007FE92D /* TabViewBootcamp.swift in Sources */,
 				5CBF2E242B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift in Sources */,
 				85B16AE32B230642007FE92D /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */,
 				5CC56E8B2B28B09F00CA8037 /* TapGestureBootcamp.swift in Sources */,
 				5CC56E8D2B28B38D00CA8037 /* ModelBootcamp.swift in Sources */,
 				5CC56E812B274D0000CA8037 /* TextEditorBootcamp.swift in Sources */,
