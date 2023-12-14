@@ -73,6 +73,7 @@
 		85B16B102B2AE038007FE92D /* BadgeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */; };
 		85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */; };
 		85B16B142B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */; };
+		85B16B162B2AF68B007FE92D /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -143,6 +144,7 @@
 		85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBootcamp.swift; sourceTree = "<group>"; };
 		85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 		85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootcamp.swift; sourceTree = "<group>"; };
+		85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,6 +239,7 @@
 				85B16B0F2B2AE038007FE92D /* BadgeBootcamp.swift */,
 				85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */,
 				85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */,
+				85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -353,6 +356,7 @@
 				5CC56E752B24CEEC00CA8037 /* TernaryBootcamp.swift in Sources */,
 				5CC56E892B28A29900CA8037 /* IfLetGuardBootcamp.swift in Sources */,
 				5CBF2E262B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift in Sources */,
+				85B16B162B2AF68B007FE92D /* NavigationStackBootcamp.swift in Sources */,
 				5CC56E672B245DBF00CA8037 /* SafeAreaBootcamp.swift in Sources */,
 				85B16AEB2B270342007FE92D /* AlertBootcamp.swift in Sources */,
 				85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */,
