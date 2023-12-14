@@ -74,6 +74,7 @@
 		85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */; };
 		85B16B142B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */; };
 		85B16B162B2AF68B007FE92D /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */; };
+		85B16B182B2B0266007FE92D /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B172B2B0266007FE92D /* ToolbarBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -145,6 +146,7 @@
 		85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 		85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootcamp.swift; sourceTree = "<group>"; };
 		85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
+		85B16B172B2B0266007FE92D /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 				85B16B112B2AE307007FE92D /* FocusStateBootcamp.swift */,
 				85B16B132B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift */,
 				85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */,
+				85B16B172B2B0266007FE92D /* ToolbarBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -362,6 +365,7 @@
 				85B16B0E2B2AD9B3007FE92D /* SwipeActionBootcamp.swift in Sources */,
 				5CC56E552B20C5AA00CA8037 /* ShapeBootcamp.swift in Sources */,
 				5CC56E792B25A06A00CA8037 /* AnimationTimingBootcamp.swift in Sources */,
+				85B16B182B2B0266007FE92D /* ToolbarBootcamp.swift in Sources */,
 				85B16AF32B283ED8007FE92D /* ColorPickerBootcamp.swift in Sources */,
 				85B16B082B29AEF0007FE92D /* IntroView.swift in Sources */,
 				5CC56E7B2B25A65C00CA8037 /* Transition.swift in Sources */,
