@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */; };
+		5C90A07F2B30916D00357882 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */; };
 		5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */; };
 		5CBF2E242B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */; };
 		5CBF2E262B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E252B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift */; };
@@ -87,6 +88,7 @@
 
 /* Begin PBXFileReference section */
 		5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E252B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
@@ -267,6 +269,7 @@
 				5CBF2E2F2B2B4BEF00CC1AC3 /* NativePopoverBootcamp.swift */,
 				5CBF2E312B2B544500CC1AC3 /* AnyLayoutBootcamp.swift */,
 				5CBF2E332B2B5B1800CC1AC3 /* ViewThatFitBootcamp.swift */,
+				5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -405,6 +408,7 @@
 				5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */,
 				85B16AE52B2315BB007FE92D /* StackBootcamp.swift in Sources */,
 				5CBF2E2A2B2B42AA00CC1AC3 /* GroupBootcamp.swift in Sources */,
+				5C90A07F2B30916D00357882 /* LongPressGestureBootcamp.swift in Sources */,
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
 				85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */,
 				85B16B1A2B2B0D47007FE92D /* ResizableSheet.swift in Sources */,
