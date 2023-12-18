@@ -41,44 +41,33 @@ struct LongPressGestureBootcamp: View {
                         maximumDistance: 50.0,
                         perform: {
                             withAnimation(.easeInOut) {
-                                isSuccess.toggle()
+                                isSuccess = true
                             }
                         },
                         onPressingChanged: { isPressingChanged in
                             if isPressingChanged {
-                                withAnimation(.easeInOut(duration: 1.0)) {
-                                    isComplete.toggle()
+                                withAnimation(.easeInOut(duration: 2.0)) {
+                                    isComplete = true
+                                }
+                            } else {
+                                withAnimation(.easeInOut(duration: 2.0)) {
+                                    isComplete = false
                                 }
                             }
-                            print(isPressingChanged.description)
+                            
+                            print(isPressingChanged)
                         }
                     )
-                
-//                    .onLongPressGesture(
-//                        minimumDuration: 1.0,
-//                        maximumDistance: 50.0,
-//                        pressing: { isPressing in
-//                            if isPressing {
-//                                withAnimation(.easeInOut) {
-//                                    isComplete.toggle()
-//                                }
-//                            }
-//                        },
-//                        perform: {
-//                            withAnimation(.easeInOut(duration: 1.0)) {
-//                                isSuccess.toggle()
-//                            }
-//                        }
-//                    )
-                        
 
-                
-                
                 Text("Reset")
                     .foregroundStyle(.white)
                     .padding()
                     .background(.blue)
                     .clipShape(RoundedRectangle(cornerRadius: 10))
+                    .onTapGesture {
+                        isComplete = false
+                        isSuccess = false
+                    }
             }
         }
         
