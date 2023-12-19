@@ -25,7 +25,7 @@ struct LongPressGestureBootcamp: View {
         
         VStack {
             Rectangle()
-                .fill(isSuccess ? .green : .blue)
+                .fill(isSuccess ? .blue : .green)
                 .frame(width: isComplete ? .infinity : 60, height: 60)
                 .frame(maxWidth: .infinity, alignment: .leading)
                 .background(.gray)
@@ -40,22 +40,27 @@ struct LongPressGestureBootcamp: View {
                         minimumDuration: 2.0,
                         maximumDistance: 50.0,
                         perform: {
+                            // at the min duration
                             withAnimation(.easeInOut) {
                                 isSuccess = true
                             }
                         },
                         onPressingChanged: { isPressingChanged in
+                            // start of press -> true
+                            // before min duration -> false
                             if isPressingChanged {
                                 withAnimation(.easeInOut(duration: 2.0)) {
                                     isComplete = true
                                 }
                             } else {
-                                withAnimation(.easeInOut(duration: 2.0)) {
-                                    isComplete = false
+                                DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                                    if !isSuccess {
+                                        withAnimation(.easeInOut) {
+                                            isComplete = false
+                                        }
+                                    }
                                 }
                             }
-                            
-                            print(isPressingChanged)
                         }
                     )
 
