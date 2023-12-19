@@ -57,6 +57,7 @@
 		8591DB072B317C47003684E4 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */; };
 		8591DB092B31819A003684E4 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */; };
 		8591DB0B2B3188F8003684E4 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */; };
+		8591DB0D2B3195C8003684E4 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB0C2B3195C8003684E4 /* ScrollViewReaderBootcamp.swift */; };
 		85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */; };
 		85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16ADE2B22FB4F007FE92D /* ImageBootcamp.swift */; };
 		85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE02B23022D007FE92D /* FrameBootcamp.swift */; };
@@ -142,6 +143,7 @@
 		8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
+		8591DB0C2B3195C8003684E4 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootcamp.swift; sourceTree = "<group>"; };
 		85B16ADE2B22FB4F007FE92D /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE02B23022D007FE92D /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
@@ -282,6 +284,7 @@
 				8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */,
 				8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */,
 				8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */,
+				8591DB0C2B3195C8003684E4 /* ScrollViewReaderBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -403,6 +406,7 @@
 				5CBF2E342B2B5B1800CC1AC3 /* ViewThatFitBootcamp.swift in Sources */,
 				5CC56E892B28A29900CA8037 /* IfLetGuardBootcamp.swift in Sources */,
 				5CBF2E262B2A17AD00CC1AC3 /* TextSelectionBootcamp.swift in Sources */,
+				8591DB0D2B3195C8003684E4 /* ScrollViewReaderBootcamp.swift in Sources */,
 				5CBF2E2C2B2B43C500CC1AC3 /* AnimationUpdatedBootcamp.swift in Sources */,
 				8591DB072B317C47003684E4 /* RotationGestureBootcamp.swift in Sources */,
 				85B16B162B2AF68B007FE92D /* NavigationStackBootcamp.swift in Sources */,
