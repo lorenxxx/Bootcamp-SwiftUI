@@ -55,6 +55,8 @@
 		5CC56E8D2B28B38D00CA8037 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CC56E8C2B28B38D00CA8037 /* ModelBootcamp.swift */; };
 		8591DB052B31746A003684E4 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB042B31746A003684E4 /* MagnificationGestureBootcamp.swift */; };
 		8591DB072B317C47003684E4 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */; };
+		8591DB092B31819A003684E4 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */; };
+		8591DB0B2B3188F8003684E4 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */; };
 		85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */; };
 		85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16ADE2B22FB4F007FE92D /* ImageBootcamp.swift */; };
 		85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16AE02B23022D007FE92D /* FrameBootcamp.swift */; };
@@ -138,6 +140,8 @@
 		5CC56E8C2B28B38D00CA8037 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		8591DB042B31746A003684E4 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		85B16ADC2B22F66C007FE92D /* IconBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootcamp.swift; sourceTree = "<group>"; };
 		85B16ADE2B22FB4F007FE92D /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		85B16AE02B23022D007FE92D /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
@@ -276,6 +280,8 @@
 				5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */,
 				8591DB042B31746A003684E4 /* MagnificationGestureBootcamp.swift */,
 				8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */,
+				8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */,
+				8591DB0A2B3188F8003684E4 /* DragGestureBootcamp2.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -376,6 +382,7 @@
 				85B16AFB2B28569B007FE92D /* TabViewBootcamp.swift in Sources */,
 				5CBF2E242B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift in Sources */,
 				85B16AE32B230642007FE92D /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				8591DB092B31819A003684E4 /* DragGestureBootcamp.swift in Sources */,
 				85B16B0C2B2AD4B7007FE92D /* ButtonStyleBootcamp.swift in Sources */,
 				5CC56E8B2B28B09F00CA8037 /* TapGestureBootcamp.swift in Sources */,
 				5CC56E8D2B28B38D00CA8037 /* ModelBootcamp.swift in Sources */,
@@ -391,6 +398,7 @@
 				85B16ADD2B22F66C007FE92D /* IconBootcamp.swift in Sources */,
 				5CBF2E282B2B279900CC1AC3 /* SafeAreaInsetBootcamp.swift in Sources */,
 				5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */,
+				8591DB0B2B3188F8003684E4 /* DragGestureBootcamp2.swift in Sources */,
 				5CC56E752B24CEEC00CA8037 /* TernaryBootcamp.swift in Sources */,
 				5CBF2E342B2B5B1800CC1AC3 /* ViewThatFitBootcamp.swift in Sources */,
 				5CC56E892B28A29900CA8037 /* IfLetGuardBootcamp.swift in Sources */,

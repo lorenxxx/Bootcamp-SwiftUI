@@ -11,7 +11,7 @@ import SwiftUI
 struct Bootcamp_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            RotationGestureBootcamp()
+            DragGestureBootcamp()
         }
     }
 }
