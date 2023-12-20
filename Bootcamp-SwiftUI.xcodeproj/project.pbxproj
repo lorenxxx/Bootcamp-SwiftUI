@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */; };
+		5C594CFF2B3340FE008F736A /* FruitContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5C594CFD2B3340FE008F736A /* FruitContainer.xcdatamodeld */; };
 		5C90A07F2B30916D00357882 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */; };
 		5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */; };
 		5CBF2E242B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */; };
@@ -59,6 +60,7 @@
 		5CD6CD9C2B31EDCD0013C1BF /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5CD6CD9B2B31EDCD0013C1BF /* badum.mp3 */; };
 		5CD6CD9E2B31EDD60013C1BF /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5CD6CD9D2B31EDD60013C1BF /* tada.mp3 */; };
 		5CD6CDA02B31F07E0013C1BF /* HapticBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6CD9F2B31F07E0013C1BF /* HapticBootcamp.swift */; };
+		5CD6CDA22B33231A0013C1BF /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD6CDA12B33231A0013C1BF /* CoreDataBootcamp.swift */; };
 		8591DB052B31746A003684E4 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB042B31746A003684E4 /* MagnificationGestureBootcamp.swift */; };
 		8591DB072B317C47003684E4 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */; };
 		8591DB092B31819A003684E4 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */; };
@@ -103,6 +105,7 @@
 
 /* Begin PBXFileReference section */
 		5C3BD5F72B2A04AE0090B1C3 /* UserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		5C594CFE2B3340FE008F736A /* FruitContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitContainer.xcdatamodel; sourceTree = "<group>"; };
 		5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBootcamp.swift; sourceTree = "<group>"; };
@@ -155,6 +158,7 @@
 		5CD6CD9B2B31EDCD0013C1BF /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		5CD6CD9D2B31EDD60013C1BF /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		5CD6CD9F2B31F07E0013C1BF /* HapticBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticBootcamp.swift; sourceTree = "<group>"; };
+		5CD6CDA12B33231A0013C1BF /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
 		8591DB042B31746A003684E4 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		8591DB062B317C47003684E4 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		8591DB082B31819A003684E4 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
@@ -314,6 +318,8 @@
 				8591DB102B32BFDB003684E4 /* LocalNotificationBootcamp.swift */,
 				8591DB122B32D450003684E4 /* HashableBootcamp.swift */,
 				8591DB142B32D9A7003684E4 /* ArrayBootcamp.swift */,
+				5CD6CDA12B33231A0013C1BF /* CoreDataBootcamp.swift */,
+				5C594CFD2B3340FE008F736A /* FruitContainer.xcdatamodeld */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -479,10 +485,12 @@
 				85B16ADF2B22FB4F007FE92D /* ImageBootcamp.swift in Sources */,
 				85B16B012B2987C3007FE92D /* ViewModelBootcamp.swift in Sources */,
 				85B16B1A2B2B0D47007FE92D /* ResizableSheet.swift in Sources */,
+				5C594CFF2B3340FE008F736A /* FruitContainer.xcdatamodeld in Sources */,
 				5CC56E832B275DA300CA8037 /* ToggleBootcamp.swift in Sources */,
 				85B16B052B29A796007FE92D /* AppStorageBootcamp.swift in Sources */,
 				5C3BD5F82B2A04AF0090B1C3 /* UserProfileView.swift in Sources */,
 				85B16B142B2AEBE8007FE92D /* SubmitTextFieldBootcamp.swift in Sources */,
+				5CD6CDA22B33231A0013C1BF /* CoreDataBootcamp.swift in Sources */,
 				5CC56E872B28A0B900CA8037 /* OnAppearBootcamp.swift in Sources */,
 				85B16AFF2B286730007FE92D /* DocumentationBootcamp.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
@@ -716,6 +724,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		5C594CFD2B3340FE008F736A /* FruitContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				5C594CFE2B3340FE008F736A /* FruitContainer.xcdatamodel */,
+			);
+			currentVersion = 5C594CFE2B3340FE008F736A /* FruitContainer.xcdatamodel */;
+			path = FruitContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 5CC56E392B1F70FA00CA8037 /* Project object */;
 }
