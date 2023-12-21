@@ -101,6 +101,8 @@
 		85B16B162B2AF68B007FE92D /* NavigationStackBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */; };
 		85B16B182B2B0266007FE92D /* ToolbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B172B2B0266007FE92D /* ToolbarBootcamp.swift */; };
 		85B16B1A2B2B0D47007FE92D /* ResizableSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B192B2B0D47007FE92D /* ResizableSheet.swift */; };
+		85B3205D2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3205C2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift */; };
+		85B320602B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 85B3205E2B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -199,6 +201,8 @@
 		85B16B152B2AF68B007FE92D /* NavigationStackBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackBootcamp.swift; sourceTree = "<group>"; };
 		85B16B172B2B0266007FE92D /* ToolbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarBootcamp.swift; sourceTree = "<group>"; };
 		85B16B192B2B0D47007FE92D /* ResizableSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheet.swift; sourceTree = "<group>"; };
+		85B3205C2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipBootcamp.swift; sourceTree = "<group>"; };
+		85B3205F2B3420A8005A51C8 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -320,6 +324,8 @@
 				8591DB142B32D9A7003684E4 /* ArrayBootcamp.swift */,
 				5CD6CDA12B33231A0013C1BF /* CoreDataBootcamp.swift */,
 				5C594CFD2B3340FE008F736A /* FruitContainer.xcdatamodeld */,
+				85B3205C2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift */,
+				85B3205E2B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -475,6 +481,7 @@
 				5CD6CD992B31E9220013C1BF /* SoundBootcamp.swift in Sources */,
 				5CC56E852B27606300CA8037 /* PickerBootcamp.swift in Sources */,
 				85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */,
+				85B3205D2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift in Sources */,
 				5CC56E692B24700E00CA8037 /* ButtonBootcamp.swift in Sources */,
 				5CC56E7D2B25AB7500CA8037 /* SheetBootcamp.swift in Sources */,
 				5CC56E472B1F70FA00CA8037 /* ContentView.swift in Sources */,
@@ -504,6 +511,7 @@
 				85B16B0A2B29B118007FE92D /* OnboardingView.swift in Sources */,
 				5CC56E652B24432800CA8037 /* GridBootcamp.swift in Sources */,
 				5CBF2E302B2B4BEF00CC1AC3 /* NativePopoverBootcamp.swift in Sources */,
+				85B320602B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld in Sources */,
 				85B16AF12B2719EF007FE92D /* TextFieldBootcamp.swift in Sources */,
 				85B16AF92B285098007FE92D /* SliderBootcamp.swift in Sources */,
 				5CC56E772B2598FD00CA8037 /* AnimationBootcamp.swift in Sources */,
@@ -733,6 +741,16 @@
 			);
 			currentVersion = 5C594CFE2B3340FE008F736A /* FruitContainer.xcdatamodel */;
 			path = FruitContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		85B3205E2B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				85B3205F2B3420A8005A51C8 /* CoreDataContainer.xcdatamodel */,
+			);
+			currentVersion = 85B3205F2B3420A8005A51C8 /* CoreDataContainer.xcdatamodel */;
+			path = FirmCoreDataContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
