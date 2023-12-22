@@ -13,6 +13,7 @@
 		5C594D032B348CD8008F736A /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C594D022B348CD8008F736A /* WeakSelfBootcamp.swift */; };
 		5C594D052B34958D008F736A /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C594D042B34958D008F736A /* TypealiasBootcamp.swift */; };
 		5C594D072B359F52008F736A /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C594D062B359F52008F736A /* CodableBootcamp.swift */; };
+		5C594D092B35B636008F736A /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C594D082B35B636008F736A /* DownloadWithEscapingBootcamp.swift */; };
 		5C90A07F2B30916D00357882 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */; };
 		5CBF2E222B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */; };
 		5CBF2E242B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */; };
@@ -117,6 +118,7 @@
 		5C594D022B348CD8008F736A /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		5C594D042B34958D008F736A /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		5C594D062B359F52008F736A /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
+		5C594D082B35B636008F736A /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
 		5C90A07E2B30916D00357882 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E212B2A0D5D00CC1AC3 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 		5CBF2E232B2A14C000CC1AC3 /* BackgroundMaterialBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialBootcamp.swift; sourceTree = "<group>"; };
@@ -341,6 +343,7 @@
 				5C594D042B34958D008F736A /* TypealiasBootcamp.swift */,
 				85B320612B356721005A51C8 /* EscapingBootcamp.swift */,
 				5C594D062B359F52008F736A /* CodableBootcamp.swift */,
+				5C594D082B35B636008F736A /* DownloadWithEscapingBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -488,6 +491,7 @@
 				5CC56E552B20C5AA00CA8037 /* ShapeBootcamp.swift in Sources */,
 				5CC56E792B25A06A00CA8037 /* AnimationTimingBootcamp.swift in Sources */,
 				85B16B182B2B0266007FE92D /* ToolbarBootcamp.swift in Sources */,
+				5C594D092B35B636008F736A /* DownloadWithEscapingBootcamp.swift in Sources */,
 				85B16AF32B283ED8007FE92D /* ColorPickerBootcamp.swift in Sources */,
 				85B16B082B29AEF0007FE92D /* IntroView.swift in Sources */,
 				5CC56E7B2B25A65C00CA8037 /* Transition.swift in Sources */,
