@@ -106,6 +106,7 @@
 		85B16B1A2B2B0D47007FE92D /* ResizableSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B16B192B2B0D47007FE92D /* ResizableSheet.swift */; };
 		85B3205D2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3205C2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift */; };
 		85B320602B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 85B3205E2B3420A8005A51C8 /* FirmCoreDataContainer.xcdatamodeld */; };
+		85B320622B356721005A51C8 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320612B356721005A51C8 /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -209,6 +210,7 @@
 		85B16B192B2B0D47007FE92D /* ResizableSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheet.swift; sourceTree = "<group>"; };
 		85B3205C2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipBootcamp.swift; sourceTree = "<group>"; };
 		85B3205F2B3420A8005A51C8 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
+		85B320612B356721005A51C8 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -335,6 +337,7 @@
 				5C594D002B347C31008F736A /* BackgroundThreadBootcamp.swift */,
 				5C594D022B348CD8008F736A /* WeakSelfBootcamp.swift */,
 				5C594D042B34958D008F736A /* TypealiasBootcamp.swift */,
+				85B320612B356721005A51C8 /* EscapingBootcamp.swift */,
 				5CC56E482B1F70FC00CA8037 /* Assets.xcassets */,
 				5CC56E4A2B1F70FC00CA8037 /* Preview Content */,
 			);
@@ -488,6 +491,7 @@
 				5CD6CD972B31E24A0013C1BF /* MaskBootcamp.swift in Sources */,
 				5CC56E612B2431FE00CA8037 /* ForEachBootcamp.swift in Sources */,
 				5CD6CD992B31E9220013C1BF /* SoundBootcamp.swift in Sources */,
+				85B320622B356721005A51C8 /* EscapingBootcamp.swift in Sources */,
 				5CC56E852B27606300CA8037 /* PickerBootcamp.swift in Sources */,
 				85B16B122B2AE307007FE92D /* FocusStateBootcamp.swift in Sources */,
 				85B3205D2B341D74005A51C8 /* CoreDataRelationshipBootcamp.swift in Sources */,
