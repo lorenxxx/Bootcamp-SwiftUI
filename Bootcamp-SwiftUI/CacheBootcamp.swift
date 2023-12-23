@@ -110,6 +110,11 @@ class CacheViewModel: ObservableObject {
     
     func getFromCache() {
         cachedImage = cacheManager.get(name: imageName)
+        if cachedImage == nil {
+            print("cache is empty")
+        } else {
+            print("found from cache")
+        }
     }
     
 }
