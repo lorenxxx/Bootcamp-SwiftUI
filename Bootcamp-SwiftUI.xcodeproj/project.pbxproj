@@ -123,6 +123,7 @@
 		85B320622B356721005A51C8 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320612B356721005A51C8 /* EscapingBootcamp.swift */; };
 		85B320652B3AA229005A51C8 /* ViewModifierBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320642B3AA229005A51C8 /* ViewModifierBootcamp.swift */; };
 		85B320672B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */; };
+		85B320692B3AB90F005A51C8 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -243,6 +244,7 @@
 		85B320612B356721005A51C8 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		85B320642B3AA229005A51C8 /* ViewModifierBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierBootcamp.swift; sourceTree = "<group>"; };
 		85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -463,6 +465,7 @@
 			children = (
 				85B320642B3AA229005A51C8 /* ViewModifierBootcamp.swift */,
 				85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */,
+				85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */,
 			);
 			path = AdvancedLearning;
 			sourceTree = "<group>";
@@ -624,6 +627,7 @@
 				5C594D1E2B372647008F736A /* DownloadingImageViewModel.swift in Sources */,
 				5CC56E5D2B236BF600CA8037 /* SpacerBootcamp.swift in Sources */,
 				5CBF2E322B2B544500CC1AC3 /* AnyLayoutBootcamp.swift in Sources */,
+				85B320692B3AB90F005A51C8 /* AnyTransitionBootcamp.swift in Sources */,
 				5C594D0D2B368F51008F736A /* TimerBootcamp.swift in Sources */,
 				85B16B102B2AE038007FE92D /* BadgeBootcamp.swift in Sources */,
 				5CC56E7F2B25DD8800CA8037 /* PopoverBootcamp.swift in Sources */,
