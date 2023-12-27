@@ -125,6 +125,7 @@
 		85B320672B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */; };
 		85B320692B3AB90F005A51C8 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */; };
 		85B3206B2B3C1C03005A51C8 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3206A2B3C1C03005A51C8 /* MatchedGeometryEffectBootcamp.swift */; };
+		85B3206D2B3C24E9005A51C8 /* CustomShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -247,6 +248,7 @@
 		85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 		85B3206A2B3C1C03005A51C8 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
+		85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapeBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -469,6 +471,7 @@
 				85B320662B3AADB2005A51C8 /* CustomButtonStyleBootcamp.swift */,
 				85B320682B3AB90F005A51C8 /* AnyTransitionBootcamp.swift */,
 				85B3206A2B3C1C03005A51C8 /* MatchedGeometryEffectBootcamp.swift */,
+				85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */,
 			);
 			path = AdvancedLearning;
 			sourceTree = "<group>";
@@ -565,6 +568,7 @@
 				5CC56E572B20CE9200CA8037 /* ColorBootcamp.swift in Sources */,
 				5CBF2E2E2B2B494200CC1AC3 /* MenuBootcamp.swift in Sources */,
 				5C594D1C2B37256A008F736A /* PhotoModel.swift in Sources */,
+				85B3206D2B3C24E9005A51C8 /* CustomShapeBootcamp.swift in Sources */,
 				85B16AEF2B271536007FE92D /* ContextMenuBootcamp.swift in Sources */,
 				85B16AE12B23022D007FE92D /* FrameBootcamp.swift in Sources */,
 				5CC56E5F2B242A3C00CA8037 /* InitializerBootcamp.swift in Sources */,
