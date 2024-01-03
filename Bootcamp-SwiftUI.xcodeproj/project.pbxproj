@@ -127,6 +127,7 @@
 		85B3206D2B3C24E9005A51C8 /* CustomShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */; };
 		85B3206F2B3D4CE4005A51C8 /* CustomCurveBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B3206E2B3D4CE4005A51C8 /* CustomCurveBootcamp.swift */; };
 		85B320712B3D576B005A51C8 /* AnimateableDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320702B3D576B005A51C8 /* AnimateableDataBootcamp.swift */; };
+		85B320752B4546FB005A51C8 /* ViewBuilderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B320742B4546FB005A51C8 /* ViewBuilderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -251,6 +252,7 @@
 		85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapeBootcamp.swift; sourceTree = "<group>"; };
 		85B3206E2B3D4CE4005A51C8 /* CustomCurveBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCurveBootcamp.swift; sourceTree = "<group>"; };
 		85B320702B3D576B005A51C8 /* AnimateableDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateableDataBootcamp.swift; sourceTree = "<group>"; };
+		85B320742B4546FB005A51C8 /* ViewBuilderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBuilderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -376,6 +378,7 @@
 				85B3206C2B3C24E9005A51C8 /* CustomShapeBootcamp.swift */,
 				85B3206E2B3D4CE4005A51C8 /* CustomCurveBootcamp.swift */,
 				85B320702B3D576B005A51C8 /* AnimateableDataBootcamp.swift */,
+				85B320742B4546FB005A51C8 /* ViewBuilderBootcamp.swift */,
 			);
 			path = Advanced;
 			sourceTree = "<group>";
@@ -581,6 +584,7 @@
 				5CC56E8D2B28B38D00CA8037 /* ModelBootcamp.swift in Sources */,
 				5CC56E812B274D0000CA8037 /* TextEditorBootcamp.swift in Sources */,
 				5CC56E632B24374800CA8037 /* ScrollViewBootcamp.swift in Sources */,
+				85B320752B4546FB005A51C8 /* ViewBuilderBootcamp.swift in Sources */,
 				5C594D0B2B35C55D008F736A /* DownloadWithCombineBootcamp.swift in Sources */,
 				5CC56E5B2B2365F800CA8037 /* PaddingBootcamp.swift in Sources */,
 				85B16AF52B2845A4007FE92D /* DatePickerBootcamp.swift in Sources */,
